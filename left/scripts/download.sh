@@ -1,0 +1,1 @@
+scp -r alansun@sws-2a40-01.mpi-sws.org:/BRAIN/circuit-alignment/work/repr/src/data/alignment/ src/data/alignment/
