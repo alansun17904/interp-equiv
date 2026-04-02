@@ -1,4 +1,7 @@
 # Tracking Equivalent Mechanistic Interpretations Across Neural Networks
+
+![](cover.png)
+
 This repository contains code that creates Figure 2 of [Tracking Equivalent Mechanistic
 Interpretations Across Neural Networks](https://arxiv.org/pdf/2603.30002). 
 
